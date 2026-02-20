@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Let Me Hear",
+  "base_artist": "Fear, and Loathing in Las Vegas",
+  "createdAt": "2026-02-20T08:32:56.369519Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let Me Hear You Scream",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/01_Let_Me_Hear_You_Scream_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Me Hear",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/02_Let_Me_Hear_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let Me Hear",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/03_Let_Me_Hear_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let Me Hear You Call My Name",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/04_Let_Me_Hear_You_Call_My_Name_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let Me Hear It From You",
+      "artist": "Sly & The Family Stone",
+      "has_synced": true,
+      "path": "select/05_Let_Me_Hear_It_From_You_Sly_&_The_Family_Stone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let Me Hear You Scream (Live)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/06_Let_Me_Hear_You_Scream_(Live)_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let Me Hear You",
+      "artist": "F8trix",
+      "has_synced": false,
+      "path": "select/07_Let_Me_Hear_You_F8trix.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let me hear you say",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/08_Let_me_hear_you_say_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let Me Hear Your Scream",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/09_Let_Me_Hear_Your_Scream_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let Me Hear You Scream",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/10_Let_Me_Hear_You_Scream_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let Me Hear You Scream (Live)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/11_Let_Me_Hear_You_Scream_(Live)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let Me Hear You Say Yeah",
+      "artist": "Infernal",
+      "has_synced": false,
+      "path": "select/12_Let_Me_Hear_You_Say_Yeah_Infernal.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let Me Hear That",
+      "artist": "Haywyre",
+      "has_synced": true,
+      "path": "select/13_Let_Me_Hear_That_Haywyre.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let Me Hear",
+      "artist": "Fear, and Loathing in Las Vegas (Parasyte)",
+      "has_synced": true,
+      "path": "select/14_Let_Me_Hear_Fear,_and_Loathing_in_Las_Vegas_(Parasyte).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Let Me Hear (From \"Parasyte\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/15_Let_Me_Hear_(From__Parasyte_)_AmaLee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let Me Hear",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": false,
+      "path": "select/pl_01_Let_Me_Hear_Fear,_and_Loathing_in_Las_Vegas.txt"
+    }
+  ]
+}
